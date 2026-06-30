@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yedzzmgbg7240.github.io/my-notes/sitemap.xml
